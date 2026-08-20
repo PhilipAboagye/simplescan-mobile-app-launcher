@@ -1,6 +1,6 @@
 {
-  "name": "Automations Hub",
-  "short_name": "Automations Hub",
+  "name": "simplescan",
+  "short_name": "simplescan",
   "description": "All your projects, one tap away",
   "start_url": "./index.html",
   "scope": "./",
