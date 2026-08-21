@@ -83,7 +83,7 @@
     } else if (isStandalone) {
       // Already installed and launched from the home screen — go straight in.
       document.getElementById('statusText').textContent = 'Connecting…';
-      setTimeout(() => window.location.replace(DASHBOARD_URL), 500);
+      setTimeout(() => window.location.replace(DASHBOARD_URL), 900);
     } else {
       // Opened in a regular browser tab — stay here so Chrome can offer
       // the install prompt, instead of immediately navigating away.
