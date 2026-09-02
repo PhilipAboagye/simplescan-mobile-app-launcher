@@ -4,7 +4,7 @@
   "description": "All your projects, one tap away",
   "start_url": "./index.html",
   "scope": "./",
-  "display": "standalone",
+  "display": "Admin Portal",
   "background_color": "#101114",
   "theme_color": "#6366f1",
   "icons": [
